@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144">
+  <!-- Background -->
+  <rect width="144" height="144" fill="#0079BF"/>
+  
+  <!-- Calendar outline -->
+  <rect x="24" y="32" width="96" height="88" fill="white" rx="8"/>
+  
+  <!-- Calendar top bar -->
+  <rect x="24" y="32" width="96" height="24" fill="#EB5A46" rx="8"/>
+  
+  <!-- Calendar number -->
+  <text x="72" y="100" 
+        font-family="Arial, sans-serif" 
+        font-size="48" 
+        fill="#0079BF" 
+        text-anchor="middle" 
+        font-weight="bold">
+    123
+  </text>
+</svg>
