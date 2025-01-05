@@ -2,6 +2,7 @@
   "name": "Day of Year Counter",
   "details": "Displays the current day of the year on cards",
   "icon": {
-    "url": "https://CarlYoungPhx.github.io/trello-day-counter/icon.svg"
-  }
+    "url": "https://CarlYoungPhx.github.io/trello-day-counter/icon.svg" 
+  },
+  "capability": "card-badges" 
 }
